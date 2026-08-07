@@ -4,7 +4,7 @@ class Solution {
         if(x<0)
             sign=false ;
         x=Math.abs(x);
-        long rev =0;
+        long   rev =0;
         while (x>0){
             rev = (rev*10) + (x%10);
             x=x/10;
@@ -14,6 +14,6 @@ class Solution {
         if(!sign){
             return - 1 * (int) rev;
         }
-        return (int)rev;
+        return (int) rev;
     }
 }
