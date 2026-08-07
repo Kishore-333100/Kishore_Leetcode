@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
