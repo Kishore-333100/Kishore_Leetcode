@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1025-divisor-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
