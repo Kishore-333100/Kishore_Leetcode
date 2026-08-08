@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2582-pass-the-pillow](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2582-pass-the-pillow) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -151,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
