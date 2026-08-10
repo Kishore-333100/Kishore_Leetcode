@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1025-divisor-game) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
