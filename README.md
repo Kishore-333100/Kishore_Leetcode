@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0877-stone-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3731-find-missing-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0344-reverse-string) |
+| [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
