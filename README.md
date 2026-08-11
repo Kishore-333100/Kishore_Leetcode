@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3731-find-missing-elements](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3731-find-missing-elements) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2413-smallest-even-multiple](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
