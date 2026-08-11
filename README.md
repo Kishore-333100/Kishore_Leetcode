@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0169-majority-element) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0796-rotate-string) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
