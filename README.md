@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
@@ -76,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3731-find-missing-elements) |
