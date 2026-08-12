@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2582-pass-the-pillow](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2582-pass-the-pillow) |
+| [3925-concatenate-array-with-reverse](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Brainteaser
 |  |
 | ------- |
