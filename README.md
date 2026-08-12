@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2706-buy-two-chocolates) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
