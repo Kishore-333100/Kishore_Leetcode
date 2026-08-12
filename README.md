@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0905-sort-array-by-parity) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
