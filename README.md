@@ -270,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
