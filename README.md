@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2706-buy-two-chocolates](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -145,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 | [2706-buy-two-chocolates](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -168,11 +173,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
