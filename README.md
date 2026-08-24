@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1563-stone-game-v) |
 | [1688-count-of-matches-in-tournament](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1952-three-divisors) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 ## String
@@ -196,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0292-nim-game) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -322,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
