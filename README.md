@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0796-rotate-string) |
 | [1927-sum-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1927-sum-game) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3019-number-of-changing-keys) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
