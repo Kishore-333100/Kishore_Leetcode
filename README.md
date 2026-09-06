@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1025-divisor-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0796-rotate-string) |
