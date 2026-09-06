@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0620-not-boring-movies](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0620-not-boring-movies) |
 | [1280-students-and-examinations](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1934-confirmation-rate) |
