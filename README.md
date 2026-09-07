@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1927-sum-game) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
