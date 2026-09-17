@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0268-missing-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
