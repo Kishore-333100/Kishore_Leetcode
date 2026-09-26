@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1872-stone-game-viii) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1927-sum-game) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
