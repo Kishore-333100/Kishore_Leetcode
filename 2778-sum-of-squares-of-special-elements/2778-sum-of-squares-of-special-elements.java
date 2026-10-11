@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<n;i++){
             if(n%(i+1)==0){
                 sq=nums[i]*nums[i];
-                sum=sum+sq;
+                sum+=sq;
             }
         }
             return sum;
