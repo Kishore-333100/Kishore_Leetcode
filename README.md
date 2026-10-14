@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
