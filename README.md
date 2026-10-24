@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2029-stone-game-ix](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2029-stone-game-ix) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2409-count-days-spent-together](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/1927-sum-game) |
 | [2278-percentage-of-letter-in-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2278-percentage-of-letter-in-string) |
+| [2409-count-days-spent-together](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kishore-333100/Kishore_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
